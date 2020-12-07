@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! I'm Rajvi
 
-<!--
-**rajviishah/rajviishah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Data Analyst and an aspiring Machine Learning Engineer.
+I love Programming, Data Science, Mathematics, and Books (mostly Self-Development).
+I'm addicted to learning, growing, and evolving every day. 
+Currently, I'm learning and practicing ML Algorithms with the context of real-time applications and sharing a little bit of my knowledge to the world through my blogs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To know more about me, reach me out: 
+:bulb: [Medium Articles](https://medium.com/@rajviishah)
+office: [LinkedIn](https://www.linkedin.com/in/rajviishah/)
+:call: [Schedule a call](https://calendly.com/rajvishah/quick-chat-with-rajvi)
+Check my latest articles: 
+
+
+
+
