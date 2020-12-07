@@ -9,13 +9,18 @@
 To know more about me or to connect, reach out: 
 - [Medium Articles](https://medium.com/@rajviishah) :writing_hand: 
 - [LinkedIn](https://www.linkedin.com/in/rajviishah/) 📇
-- [Mail](rajvishah2309@gmail.com) :e-mail:
+- [Mail](mailto:rajvishah2309@gmail.com) :e-mail:
 - [Schedule a call](https://calendly.com/rajvishah/quick-chat-with-rajvi) 📞
 
 Check my latest articles: 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/0" alt="Recent Article 0">
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/1" alt="Recent Article 1">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/2" alt="Recent Article 2">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/3" alt="Recent Article 3">
 
 
 
