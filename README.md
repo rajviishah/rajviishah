@@ -14,7 +14,7 @@ To know more about me or to connect, reach out:
 
 Check my featured articles: 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/4" alt="Recent Article 4">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/4" >
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/5" alt="Recent Article 5">
 
 
