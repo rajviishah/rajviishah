@@ -12,7 +12,7 @@ To know more about me or to connect, reach out:
 - [Mail](mailto:rajvishah2309@gmail.com) :e-mail:
 - [Schedule a call](https://calendly.com/rajvishah/quick-chat-with-rajvi) 📞
 
-Check my featured articles: 
+Check my latest articles: 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rajviishah/0" >
   
