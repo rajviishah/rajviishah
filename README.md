@@ -1,16 +1,19 @@
 ### Hi there! I'm Rajvi :smiley:
 
+I love to investigate and gain insights from the data.
 
-- I'm a Data Analyst and aspiring Machine Learning Engineer. ⭐
-- I love Programming, Data Science, Mathematics, and Books (mostly Self-Development). :woman_scientist:
-- I'm addicted to learning, growing, and evolving every day. 🌱 
-- Currently, I'm learning and practicing ML Algorithms with the context of real-time applications and sharing a little bit of my knowledge to the world through my blogs. :bulb:
+I have a strong foundation in Computer Science, Mathematics, and Machine Learning. I explore, learn, and implement Data Science concepts to improvise products and solve real-world/business problems using a blend of my technical, analytical, and research skills. In the baseline, I believe - research, execute, analyze, improvise, and repeat and like to showcase my ideas by turning them into products.
+
+Presently, I'm pursuing MS in Software Engineering specialization in Data Science at San Jose State University (SJSU). In my free time, I write about Data Science concepts by breaking complex topics into simple explanations thoroughly. Moreover, I'm an aspiring Machine Learning Engineer.
+
+Technical Skills:- Python & its libraries (Pandas, NumPy, Seaborn, Scikit Learn, TensorFlow, Keras), SQL, Probability, Statistics, Machine Learning algorithms, Exploratory Data Analysis, Data Mining
+
 
 To know more about me or to connect, reach out: 
 - [Medium Articles](https://medium.com/@rajviishah) :writing_hand: 
 - [LinkedIn](https://www.linkedin.com/in/rajviishah/) 📇
 - [Mail](mailto:rajvishah2309@gmail.com) :e-mail:
-- [Schedule a call](https://calendly.com/rajvishah/quick-chat-with-rajvi) 📞
+
 
 Check my latest articles: 
 
