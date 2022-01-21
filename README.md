@@ -1,6 +1,6 @@
 ### Hi there! I'm Rajvi :smiley:
 
-I love to investigate and gain insights from the data.
+I love to investigate and gain insights from the data as well as develop products.
 
 I have a strong foundation in Computer Science, Mathematics, and Machine Learning. I explore, learn, and implement Data Science concepts to improvise products and solve real-world/business problems using a blend of my technical, analytical, and research skills. In the baseline, I believe - research, execute, analyze, improvise, and repeat and like to showcase my ideas by turning them into products.
 
